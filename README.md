@@ -1,2 +1,2 @@
 # Sudoku-solver
-A program that solves sudoku puzzles
+A java program that solves sudoku puzzles
